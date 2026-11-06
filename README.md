@@ -5,7 +5,9 @@
 **Project Type:** Descriptive Data Analytics  
 **Project:** DataMites Capstone 1 – PRDA-02: CSAT Analytics
 
-![Customer Satisfaction Dashboard](Screenshots/Customer%20Satisfaction%20Dashboard.png)
+## Dashboard Preview
+
+![Customer Satisfaction Analysis Dashboard](Screenshots/CSAT_Dashboard.png)
 
 ## 1. Business Problem
 
